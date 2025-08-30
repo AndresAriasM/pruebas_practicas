@@ -1,0 +1,9 @@
+# =============================================================================
+# PROYECTO MLOPS - REQUIREMENTS.txt
+# Dependencias para pipeline completo de datos y ML
+# =============================================================================
+
+# Core Python Libraries
+numpy
+pandas
+scipy
